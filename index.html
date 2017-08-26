@@ -27,7 +27,7 @@ sets:
 		{% assign posts = tag[1] %}
 		{% assign size = posts | size %}
 		<section class="category">
-			{% assign cat-name = name | replace: "jekyll-", " "  | strip %}
+			{% assign cat-name = name | replace: "services-", " "  | strip %}
 				<h3>
 					<a href="{{ site.baseurl }}/{{ name | slugify }}/">{{ cat-name | replace: "-", " " | replace: "cloudcannon", "CloudCannon" }}</a>
 				</h3>
