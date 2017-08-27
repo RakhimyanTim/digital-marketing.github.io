@@ -1,4 +1,4 @@
 ---
-title: Getting started with Jekyll
-description: If you're new to Jekyll this is the series for you. We'll learn about the world of static site generators, install Jekyll and understand fundamental Jekyll concepts.
+title: Услуги интернет-маркетинга
+description: Мы помогаем нашим клиентам получить трафик и конвертировать его в продажи. И делаем это хорошо.
 ---
