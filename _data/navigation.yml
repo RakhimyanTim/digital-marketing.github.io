@@ -1,6 +1,6 @@
 - name: Услуги
   link: /
 - name: Статус
-  link: /status
+  link: /jekyll-templates/
 - name: Блог
   link: /blog
