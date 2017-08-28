@@ -1,4 +1,6 @@
 - name: Услуги
   link: /
+- name: Статус
+  link: /status
 - name: Блог
   link: /blog
