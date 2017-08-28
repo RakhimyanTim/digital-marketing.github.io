@@ -1,13 +1,13 @@
 - name:
-  link: https://facebook.com/CloudCannon
+  link: https://facebook.com/enblabs
   new_window: true
   social_icon: Facebook
 - name:
-  link: https://twitter.com/CloudCannon
+  link: https://twitter.com/enblabs
   social_icon: Twitter
   new_window: true
 - name:
-  link: https://www.youtube.com/channel/UC8CXR0-3I70i1tfPg1PAE1g
+  link: https://www.youtube.com/
   social_icon: YouTube
   new_window: true
 - name:
