@@ -1,5 +1,5 @@
-blogging:
-  description: Learn how to get the most out of your Jekyll blog.
+content-marketing:
+  description: Идеи для пополнения контента.
   featured:
     - introduction-to-blogging
     - using-diqus-for-comments
