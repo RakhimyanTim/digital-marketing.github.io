@@ -9,7 +9,9 @@ layout: default
 	{% if sub_navigation_size > 1 %}
 		<section class="sidebar sticky">
 			<ul>
-				{% include share-section.html %}
+			    {% for item in sub_navigation %}
+					<li><a href="#{{ item.id }}">{{ item.text }}</a></li>
+				{% endfor %}
 			</ul>
 		</section>
 	{% endif %}
@@ -40,6 +42,8 @@ layout: default
 			{% endif %}
 		{% endif %}
 		{{ content }}
+		
+		{% include share-section.html %}
 
 	</section>
 </section>
