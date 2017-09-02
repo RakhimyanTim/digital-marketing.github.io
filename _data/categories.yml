@@ -1,7 +1,4 @@
 content-marketing:
   description: Идеи для пополнения контента.
   featured:
-    - introduction-to-blogging
-    - using-diqus-for-comments
-    - list-posts
-    - advanced-blogging
+    - сервис-для-написания-текстового-контента
