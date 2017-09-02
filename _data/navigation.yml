@@ -1,4 +1,4 @@
-- name: Услуги
+- name: Главная
   link: /
-- name: Статус
-  link: /status/
+- name: Как это работает?
+  link: /howitworks/
