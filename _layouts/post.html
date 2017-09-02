@@ -3,8 +3,6 @@ layout: default
 ---
 
 <section class="tutorial">
-	{% assign sub_navigation = content | extract_element: 'h2' %}
-	{% assign sub_navigation_size = sub_navigation | size %}
 
 
 	<section class="main-content {% if sub_navigation_size < 2 %}no-sidebar{% endif %}">
