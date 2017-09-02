@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Проверка бизнес-идей
+title: Enblabs
 url: "https://enblabs.ru"
 baseurl:
 google_analytics_key: "UA-37472773-17"
@@ -10,7 +10,7 @@ newsletter_action: "//cloudcannon.us12.list-manage.com/subscribe/post?u=c2598ec0
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Сервис для проверки бизнес-идей
+description: cервис для проверки бизнес-идей
 author:
   name:
   email:
