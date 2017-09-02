@@ -14,7 +14,7 @@ layout: default
 {% assign category-tutorials-size = category-tutorials | size %}
 
 {% for tutorial in category-tutorials %}
-	{% assign permalink = "/" | append: tutorial | append: "/" %}
+	{% assign permalink = "/jekyll/" | append: tutorial | append: "/" %}
 	{% assign post = site.posts | where: "url", permalink | first %}
 	{% assign featured_posts = featured_posts | push: post %}
 {% endfor %}
