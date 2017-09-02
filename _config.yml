@@ -10,7 +10,7 @@ newsletter_action: "//cloudcannon.us12.list-manage.com/subscribe/post?u=c2598ec0
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: cервис для проверки бизнес-идей
+description: cервис для проверки идеи стартапа
 author:
   name:
   email:
@@ -18,12 +18,12 @@ author:
 social:
   name: Enblabs
   links:
-    - https://github.com/CloudCannon/academy
+    - https://github.com/
 
 # -----
 # Build
 
-permalink: /jekyll/:title/
+permalink: /:title/
 
 gems:
   - jekyll-sitemap
