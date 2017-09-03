@@ -6,15 +6,11 @@ layout: default
 	{% assign sub_navigation = content | extract_element: 'h2' %}
 	{% assign sub_navigation_size = sub_navigation | size %}
 
-	
 		<section class="sidebar sticky">
 			<ul>
-			    {% for item in sub_navigation %}
-							{% include share-section.html %}
-				{% endfor %}
+                {% include share-section.html %}
 			</ul>
 		</section>
-
 
 	<section class="main-content {% if sub_navigation_size < 2 %}no-sidebar{% endif %}">
 		<h1>{{ page.title }}</h1>
