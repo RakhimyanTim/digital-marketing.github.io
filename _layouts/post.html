@@ -6,7 +6,7 @@ layout: default
 	{% assign sub_navigation = content | extract_element: 'h2' %}
 	{% assign sub_navigation_size = sub_navigation | size %}
 
-	{% if sub_navigation_size > 1 %}
+	{% if sub_navigation_size > 0 %}
 		<section class="sidebar sticky">
 			<ul>
 			    {% for item in sub_navigation %}
